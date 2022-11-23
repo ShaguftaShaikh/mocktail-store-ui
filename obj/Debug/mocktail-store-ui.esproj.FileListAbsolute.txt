@@ -1,0 +1,2 @@
+C:\Users\SHAGUFTA\source\repos\mocktail-store-ui\mocktail-store-ui\obj\Debug\mocktail-store-ui.esproj.SuggestedBindingRedirects.cache
+C:\Users\SHAGUFTA\source\repos\mocktail-store-ui\mocktail-store-ui\obj\Debug\mocktail-store-ui.esproj.CoreCompileInputs.cache
